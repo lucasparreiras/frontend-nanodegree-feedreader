@@ -1,5 +1,4 @@
 <h1>Feed Reader Testing</h1>
-
 <h2>How to run the application?</h2>
 
 <ul>
