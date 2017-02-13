@@ -5,5 +5,5 @@
 <ul>
     <li>Download the zip file from github repository here</li>
     <li>Run index.html</li>
-    <li><a href="https://github.com/lucasparreiras/frontend-nanodegree-feedreader">Here is the live link to the website</a></li>
+    <li><a href="https://lucasparreiras.github.io/feedreader/">Here is the live link to the website</a></li>
 </ul>
