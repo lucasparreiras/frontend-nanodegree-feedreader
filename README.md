@@ -1,8 +1,6 @@
-<h1>Feed Reader Testing</h1>
-<h2>How to run the application?</h2>
+#Feed Reader Testing
+##How to run the application?
 
-<ul>
-    <li>Download the zip file from github repository here</li>
-    <li>Run index.html</li>
-    <li><a href="https://lucasparreiras.github.io/feedreader/">Here is the live link to the website</a></li>
-</ul>
+1. Download the zip file from github repository here
+2. Run index.html
+3. [Here is the live link to the website](https://lucasparreiras.github.io/feedreader/)
